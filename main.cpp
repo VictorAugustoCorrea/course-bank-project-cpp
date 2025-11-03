@@ -27,7 +27,7 @@ int main() {
         0.0);
 
     accounts  second_account(
-        customers("Daniely","123_abcd@gmail.com", "(11) 9 7895-5632", "987.654.321-00", 1),
+        customers("Joaozinho","123_abcd@gmail.com", "(11) 9 7895-5632", "987.654.321-00", 1),
         0.0);
 
     first_account.deposit(6000), second_account.deposit(10000);
